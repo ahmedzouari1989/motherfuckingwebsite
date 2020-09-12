@@ -10,3 +10,20 @@ body {
 h1, h2, h3 {
   line-height:1.2;
 }
+
+.buttonClick{
+	background-color: magenta;
+}
+.buttonClick p{
+  color:green;
+  font-family: 'Courier New', Courier, monospace;
+}
+.buttonClick h{
+  color:blue;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
+
+	
+	
